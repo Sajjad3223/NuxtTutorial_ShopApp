@@ -1,0 +1,27 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@import './font.css';
+
+*{
+    font-family: 'Vazir';
+}
+
+input[type=number]{
+    @apply text-center;
+    &::-webkit-inner-spin-button{
+        display: none;
+    }
+}
+
+.modalC{
+    @apply fixed inset-0 bg-black/20 backdrop-blur-xs grid place-items-center;
+}
+
+.badge-success{
+    @apply px-2 rounded-full bg-success/20 text-success text-xs;
+}
+
+.badge-danger{
+    @apply px-2 rounded-full bg-error/20 text-error text-xs;
+}

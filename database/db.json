@@ -1,0 +1,412 @@
+{
+  "products": [
+    {
+      "title": "کیبورد مکانیکی RGB",
+      "shortDescription": "معرفی کیبورد مکانیکی RGB مناسب کاربران حرفه‌ای.",
+      "description": "کیبورد مکانیکی RGB با کیفیت ساخت بالا، عملکرد پایدار و امکانات مناسب، انتخابی عالی برای برنامه‌نویسان، گیمرها و کاربران حرفه‌ای است. این محصول از متریال باکیفیت ساخته شده و در استفاده طولانی‌مدت تجربه مطلوبی ارائه می‌دهد.",
+      "price": 800000,
+      "discount": "10",
+      "image": "/images/products/product_1.png",
+      "id": "1",
+      "comments": []
+    },
+    {
+      "id": "2",
+      "title": "ماوس بی‌سیم ارگونومیک",
+      "shortDescription": "معرفی ماوس بی‌سیم ارگونومیک مناسب کاربران حرفه‌ای.",
+      "description": "ماوس بی‌سیم ارگونومیک با کیفیت ساخت بالا، عملکرد پایدار و امکانات مناسب، انتخابی عالی برای برنامه‌نویسان، گیمرها و کاربران حرفه‌ای است. این محصول از متریال باکیفیت ساخته شده و در استفاده طولانی‌مدت تجربه مطلوبی ارائه می‌دهد.",
+      "price": 1150000,
+      "discount": 15,
+      "image": "/images/products/product_2.png",
+      "comments": [
+        {
+          "id": 2,
+          "fullName": "علی رضایی",
+          "comment": "ارزش خرید بالایی دارد.",
+          "created_at": "2026-07-04T00:00:00",
+          "isActive": true
+        },
+        {
+          "id": 3,
+          "fullName": "سجاد میرشبی",
+          "comment": "این یک نظر تستی است",
+          "created_at": "2026-08-12T15:32:27.157Z",
+          "isActive": true
+        },
+        {
+          "id": 1,
+          "fullName": "سجاد میرشبی",
+          "comment": "کیفیت ساخت عالی بود.",
+          "created_at": "2026-07-03T00:00:00",
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "مانیتور 27 اینچ QHD",
+      "shortDescription": "معرفی مانیتور 27 اینچ QHD مناسب کاربران حرفه‌ای.",
+      "description": "مانیتور 27 اینچ QHD با کیفیت ساخت بالا، عملکرد پایدار و امکانات مناسب، انتخابی عالی برای برنامه‌نویسان، گیمرها و کاربران حرفه‌ای است. این محصول از متریال باکیفیت ساخته شده و در استفاده طولانی‌مدت تجربه مطلوبی ارائه می‌دهد.",
+      "price": 1500000,
+      "discount": 20,
+      "image": "/images/products/product_3.png",
+      "comments": [
+        {
+          "id": 1,
+          "fullName": "سجاد میرشبی",
+          "comment": "کیفیت ساخت عالی بود.",
+          "created_at": "2026-07-04T00:00:00",
+          "isActive": true
+        },
+        {
+          "id": 2,
+          "fullName": "علی رضایی",
+          "comment": "ارزش خرید بالایی دارد.",
+          "created_at": "2026-07-05T00:00:00",
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "هدفون نویزکنسلینگ",
+      "shortDescription": "معرفی هدفون نویزکنسلینگ مناسب کاربران حرفه‌ای.",
+      "description": "هدفون نویزکنسلینگ با کیفیت ساخت بالا، عملکرد پایدار و امکانات مناسب، انتخابی عالی برای برنامه‌نویسان، گیمرها و کاربران حرفه‌ای است. این محصول از متریال باکیفیت ساخته شده و در استفاده طولانی‌مدت تجربه مطلوبی ارائه می‌دهد.",
+      "price": 1850000,
+      "discount": 0,
+      "image": "/images/products/product_4.png",
+      "comments": [
+        {
+          "id": 1,
+          "fullName": "سجاد میرشبی",
+          "comment": "کیفیت ساخت عالی بود.",
+          "created_at": "2026-07-05T00:00:00"
+        },
+        {
+          "id": 2,
+          "fullName": "علی رضایی",
+          "comment": "ارزش خرید بالایی دارد.",
+          "created_at": "2026-07-06T00:00:00"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "وبکم Full HD",
+      "shortDescription": "معرفی وبکم Full HD مناسب کاربران حرفه‌ای.",
+      "description": "وبکم Full HD با کیفیت ساخت بالا، عملکرد پایدار و امکانات مناسب، انتخابی عالی برای برنامه‌نویسان، گیمرها و کاربران حرفه‌ای است. این محصول از متریال باکیفیت ساخته شده و در استفاده طولانی‌مدت تجربه مطلوبی ارائه می‌دهد.",
+      "price": 2200000,
+      "discount": 10,
+      "image": "/images/products/product_5.png",
+      "comments": [
+        {
+          "id": 1,
+          "fullName": "سجاد میرشبی",
+          "comment": "کیفیت ساخت عالی بود.",
+          "created_at": "2026-07-06T00:00:00"
+        },
+        {
+          "id": 2,
+          "fullName": "علی رضایی",
+          "comment": "ارزش خرید بالایی دارد.",
+          "created_at": "2026-07-07T00:00:00"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "میکروفون USB",
+      "shortDescription": "معرفی میکروفون USB مناسب کاربران حرفه‌ای.",
+      "description": "میکروفون USB با کیفیت ساخت بالا، عملکرد پایدار و امکانات مناسب، انتخابی عالی برای برنامه‌نویسان، گیمرها و کاربران حرفه‌ای است. این محصول از متریال باکیفیت ساخته شده و در استفاده طولانی‌مدت تجربه مطلوبی ارائه می‌دهد.",
+      "price": 2550000,
+      "discount": 15,
+      "image": "/images/products/product_6.png",
+      "comments": [
+        {
+          "id": 1,
+          "fullName": "سجاد میرشبی",
+          "comment": "کیفیت ساخت عالی بود.",
+          "created_at": "2026-07-07T00:00:00"
+        },
+        {
+          "id": 2,
+          "fullName": "علی رضایی",
+          "comment": "ارزش خرید بالایی دارد.",
+          "created_at": "2026-07-08T00:00:00"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "SSD 1TB NVMe",
+      "shortDescription": "معرفی SSD 1TB NVMe مناسب کاربران حرفه‌ای.",
+      "description": "SSD 1TB NVMe با کیفیت ساخت بالا، عملکرد پایدار و امکانات مناسب، انتخابی عالی برای برنامه‌نویسان، گیمرها و کاربران حرفه‌ای است. این محصول از متریال باکیفیت ساخته شده و در استفاده طولانی‌مدت تجربه مطلوبی ارائه می‌دهد.",
+      "price": 2900000,
+      "discount": 20,
+      "image": "/images/products/product_7.png",
+      "comments": [
+        {
+          "id": 1,
+          "fullName": "سجاد میرشبی",
+          "comment": "کیفیت ساخت عالی بود.",
+          "created_at": "2026-07-08T00:00:00"
+        },
+        {
+          "id": 2,
+          "fullName": "علی رضایی",
+          "comment": "ارزش خرید بالایی دارد.",
+          "created_at": "2026-07-09T00:00:00"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "رم DDR5 32GB",
+      "shortDescription": "معرفی رم DDR5 32GB مناسب کاربران حرفه‌ای.",
+      "description": "رم DDR5 32GB با کیفیت ساخت بالا، عملکرد پایدار و امکانات مناسب، انتخابی عالی برای برنامه‌نویسان، گیمرها و کاربران حرفه‌ای است. این محصول از متریال باکیفیت ساخته شده و در استفاده طولانی‌مدت تجربه مطلوبی ارائه می‌دهد.",
+      "price": 3250000,
+      "discount": 0,
+      "image": "/images/products/product_8.png",
+      "comments": [
+        {
+          "id": 1,
+          "fullName": "سجاد میرشبی",
+          "comment": "کیفیت ساخت عالی بود.",
+          "created_at": "2026-07-09T00:00:00"
+        },
+        {
+          "id": 2,
+          "fullName": "علی رضایی",
+          "comment": "ارزش خرید بالایی دارد.",
+          "created_at": "2026-07-10T00:00:00"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "لپ‌تاپ برنامه‌نویسی",
+      "shortDescription": "معرفی لپ‌تاپ برنامه‌نویسی مناسب کاربران حرفه‌ای.",
+      "description": "لپ‌تاپ برنامه‌نویسی با کیفیت ساخت بالا، عملکرد پایدار و امکانات مناسب، انتخابی عالی برای برنامه‌نویسان، گیمرها و کاربران حرفه‌ای است. این محصول از متریال باکیفیت ساخته شده و در استفاده طولانی‌مدت تجربه مطلوبی ارائه می‌دهد.",
+      "price": 3600000,
+      "discount": 10,
+      "image": "/images/products/product_9.png",
+      "comments": [
+        {
+          "id": 1,
+          "fullName": "سجاد میرشبی",
+          "comment": "کیفیت ساخت عالی بود.",
+          "created_at": "2026-07-10T00:00:00"
+        },
+        {
+          "id": 2,
+          "fullName": "علی رضایی",
+          "comment": "ارزش خرید بالایی دارد.",
+          "created_at": "2026-07-11T00:00:00"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "صندلی ارگونومیک",
+      "shortDescription": "معرفی صندلی ارگونومیک مناسب کاربران حرفه‌ای.",
+      "description": "صندلی ارگونومیک با کیفیت ساخت بالا، عملکرد پایدار و امکانات مناسب، انتخابی عالی برای برنامه‌نویسان، گیمرها و کاربران حرفه‌ای است. این محصول از متریال باکیفیت ساخته شده و در استفاده طولانی‌مدت تجربه مطلوبی ارائه می‌دهد.",
+      "price": 3950000,
+      "discount": 15,
+      "image": "/images/products/product_10.png",
+      "comments": [
+        {
+          "id": 1,
+          "fullName": "سجاد میرشبی",
+          "comment": "کیفیت ساخت عالی بود.",
+          "created_at": "2026-07-11T00:00:00"
+        },
+        {
+          "id": 2,
+          "fullName": "علی رضایی",
+          "comment": "ارزش خرید بالایی دارد.",
+          "created_at": "2026-07-12T00:00:00"
+        }
+      ]
+    },
+    {
+      "title": "محصولی تستی",
+      "shortDescription": "توضیحات کوتاه",
+      "description": "توضیحات کامل",
+      "price": "500000",
+      "discount": 0,
+      "image": "https://assets.daneshjooyar.com/wp-content/uploads/2024/11/FrontEnd-min-w400.avif",
+      "comments": [],
+      "id": "RqzH60-kysM"
+    }
+  ],
+  "orders": [
+    {
+      "userId": "XXuSr7xrXVA",
+      "totalPrice": 3350000,
+      "finalPrice": 3350000,
+      "discount": 0,
+      "status": 1,
+      "created_at": "2026-08-12T12:46:30.291Z",
+      "items": [
+        {
+          "id": 987,
+          "productId": "1",
+          "productTitle": "کیبورد مکانیکی RGB",
+          "productImage": "/images/products/product_1.png",
+          "quantity": 1,
+          "price": 800000
+        },
+        {
+          "id": 463,
+          "productId": "6",
+          "productTitle": "میکروفون USB",
+          "productImage": "/images/products/product_6.png",
+          "quantity": 1,
+          "price": 2550000
+        }
+      ],
+      "id": "ANZiUl2rtw0"
+    },
+    {
+      "userId": "o0OZevBQjJk",
+      "totalPrice": 5800000,
+      "finalPrice": 5800000,
+      "discount": 0,
+      "status": 1,
+      "created_at": "2026-08-12T13:17:24.275Z",
+      "items": [
+        {
+          "id": 178,
+          "productId": "6",
+          "productTitle": "میکروفون USB",
+          "productImage": "/images/products/product_6.png",
+          "quantity": 1,
+          "price": 2550000
+        },
+        {
+          "id": 388,
+          "productId": "8",
+          "productTitle": "رم DDR5 32GB",
+          "productImage": "/images/products/product_8.png",
+          "quantity": 1,
+          "price": 3250000
+        }
+      ],
+      "id": "oMtidzh9E7w"
+    },
+    {
+      "userId": "o0OZevBQjJk",
+      "totalPrice": 11250000,
+      "finalPrice": 11250000,
+      "discount": 0,
+      "status": 1,
+      "created_at": "2026-08-12T13:25:18.176Z",
+      "items": [
+        {
+          "id": 136,
+          "productId": "8",
+          "productTitle": "رم DDR5 32GB",
+          "productImage": "/images/products/product_8.png",
+          "quantity": 3,
+          "price": 3250000
+        }
+      ],
+      "id": "ds6g6vo9NGA"
+    },
+    {
+      "userId": "XXuSr7xrXVA",
+      "totalPrice": 2300000,
+      "finalPrice": 2300000,
+      "discount": 0,
+      "status": 1,
+      "created_at": "2026-08-23T06:28:32.451Z",
+      "items": [
+        {
+          "id": 893,
+          "productId": "1",
+          "productTitle": "کیبورد مکانیکی RGB",
+          "productImage": "/images/products/product_1.png",
+          "quantity": 2,
+          "price": 800000
+        },
+        {
+          "id": 250,
+          "productId": "3",
+          "productTitle": "مانیتور 27 اینچ QHD",
+          "productImage": "/images/products/product_3.png",
+          "quantity": 1,
+          "price": 1500000
+        }
+      ],
+      "id": "jzLQqx9hU2k"
+    }
+  ],
+  "users": [
+    {
+      "id": "XXuSr7xrXVA",
+      "phone": "09123456789",
+      "fullName": "سجاد میرشبی",
+      "roles": [
+        "admin"
+      ]
+    },
+    {
+      "phone": "09123456788",
+      "id": "o0OZevBQjJk",
+      "fullName": "محمد رضایی",
+      "roles": []
+    }
+  ],
+  "settings": {
+    "logo": "https://www.daneshjooyar.com/wp-content/themes/daneshlight/Images/logotype.svg",
+    "title": "فروشگاه اینترنتی",
+    "subTitle": "از ما بخرید تا جایزه ببرید",
+    "banners": [
+      {
+        "image": "https://assets.daneshjooyar.com/wp-content/uploads/2023/09/Photoshop-min-w400.avif",
+        "title": "فتوشاپ",
+        "url": "/"
+      },
+      {
+        "image": "https://www.daneshjooyar.com/wp-content/uploads/2025/11/Canva-min-400x225.png",
+        "title": "کنوا",
+        "url": "/"
+      },
+      {
+        "image": "https://www.daneshjooyar.com/wp-content/uploads/2025/09/Unreal-Engine-min-400x225.png",
+        "title": "آنریل انجین",
+        "url": "/"
+      }
+    ],
+    "footerLinks": [
+      {
+        "title": "صفحات سایت",
+        "links": [
+          {
+            "label": "لینک اول",
+            "url": "/product"
+          }
+        ]
+      },
+      {
+        "title": "پشتیبانی",
+        "links": [
+          {
+            "label": "تماس با ما",
+            "url": "/contact"
+          }
+        ]
+      },
+      {
+        "title": "درباره ما",
+        "links": [
+          {
+            "label": "درباره سایت",
+            "url": "/about"
+          }
+        ]
+      }
+    ]
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}
